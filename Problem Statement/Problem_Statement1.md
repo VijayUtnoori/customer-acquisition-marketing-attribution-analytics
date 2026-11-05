@@ -1,1 +1,1 @@
-"Maximizing Customer Lifetime Value & Campaign Efficiency: Identifying High-Performing Marketing Channels and Reducing Customer Churn Across Target Demographics"
+"Optimizing Marketing ROI & Commercial Growth: Evaluating Campaign Spend Efficiency, Promotional Attribution, and Customer Profitability Across B2B Segments"
