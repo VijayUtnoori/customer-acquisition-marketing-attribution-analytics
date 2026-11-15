@@ -5,6 +5,15 @@
 --===============
 ## Query 1: Customer Segmentation Analysis
 
+
+/*Group customers into three segments based on their spending behavior:
+    - VIP: Customers with at least 6 months of history and spending more than $25,000.
+    - Regular: Customers with at least 6 months of history but spending $25,000 or less.
+    - New: Customers with a lifespan less than 6 months.
+And find the total number of customers by each group
+*/
+
+
 **Business Objective:** Group customers into segments (New, Regular, and VIP) based on lifespan history and total spending to analyze customer base distribution.
 
 | customer_segmentation | total_customers |
@@ -16,6 +25,14 @@
 > **Key Insight:** New customers make up the largest portion of the customer base with 32 accounts, while VIP customers represent the most exclusive tier with 3 accounts.
 
 ## Query 2: Campaign Performance Segmentation Analysis
+
+/* Group campaigns into three segments based on their performance and spend behavior:
+   - High-Impact: Campaigns with a total spend greater than $10000 and an average click-through rate (CTR) above the overall average
+   - Moderate: Campaigns with a total spend greater than $10000 and an average click-through rate (CTR) at or below the overall average
+   - Low-Impact: Campaigns with a total spend of $5,000 or less
+   And find the total number of campaigns by each group
+*/
+
 
 **Business Objective:** Group marketing campaigns into performance tiers (High Impact, Moderate, and Low Impact) based on total spend and click-through rates (CTR).
 
