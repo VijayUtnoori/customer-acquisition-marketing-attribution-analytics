@@ -161,7 +161,7 @@ And find the total number of customers by each group
 
 ---
 
-## Query 5: Monthly Total vs. Running Average Spending (`Avg_spending`)
+## Query 7: Monthly Total vs. Running Average Spending (`Avg_spending`)
 
 **Business Objective:** Compare individual monthly marketing spend against the cumulative moving average over time.
 
@@ -189,7 +189,7 @@ And find the total number of customers by each group
 ## Current[Measure]-Target[Measure]
 
 
-## Query 6: Year-over-Year Product Sales Performance & Average Comparison
+## Query 8: Year-over-Year Product Sales Performance & Average Comparison
 *(Note: Displaying a sample of 10 rows out of 102 total records)*
 
 --Analyze the yearly performance of product by comparing their sales to both the avg sales performance of the product and the previous years sales
@@ -220,7 +220,7 @@ And find the total number of customers by each group
 ##  [Measure]/Total[Measure]*100 By [Dimention]
 
 
-## Query 8: Product Category Sales Contribution
+## Query 9: Product Category Sales Contribution
 
 **Business Objective:** Calculate individual product category sales and their percentage contribution to overall company revenue.
 
@@ -237,7 +237,7 @@ And find the total number of customers by each group
 
 ---
 
-## Query 9: Marketing Campaign Spending Contribution
+## Query 10: Marketing Campaign Spending Contribution
 
 **Business Objective:** Measure spending distribution across different marketing campaigns relative to overall campaign spending.
 
@@ -254,7 +254,7 @@ And find the total number of customers by each group
 
 ---
 
-## Query 10: Marketing Channel Spending Contribution
+## Query 11: Marketing Channel Spending Contribution
 
 **Business Objective:** Evaluate budget allocation and spending contribution across different marketing channels.
 
@@ -277,7 +277,7 @@ Data Segmentation
 ## [Measure] by [Measure]
 
 
-## Query 11: Campaign Budget vs. Total Spend Performance
+## Query 12: Campaign Budget vs. Total Spend Performance
 
 **Business Objective:** Compare campaign budgets against actual spending to evaluate allocation efficiency and budget variances.
 
@@ -294,7 +294,7 @@ Data Segmentation
 
 ---
 
-## Query 12: Product Category Sales Volume and Status
+## Query 13: Product Category Sales Volume and Status
 
 **Business Objective:** Analyze total units sold and revenue by product category to classify sales volume performance.
 
@@ -311,7 +311,7 @@ Data Segmentation
 
 ---
 
-## Query 13: Top Customer Value Segmentation
+## Query 14: Top Customer Value Segmentation
 *(Note: Displaying a sample of 10 rows out of total customer records)*
 
 **Business Objective:** Categorize customers based on cumulative sales performance into high-value and mid-value segments.
