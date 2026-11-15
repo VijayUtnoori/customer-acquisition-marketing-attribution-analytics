@@ -32,7 +32,7 @@
 | industrial | 65913.11|
 | sports | 77169.38|
 
-> **EDA Takeaway:** Electronics commands the highest baseline revenue share exceeding ₹130.8K[cite: 25].
+> **EDA Takeaway:** Electronics commands the highest baseline revenue share exceeding ₹130.8K
 
 ---
 
@@ -47,4 +47,51 @@
 | North America | 97455.75 |
 | Latin America | 40972.34[ci|
 
-> **EDA Takeaway:** Europe leads as the top revenue region ($167.3K+), followed closely by the Middle East and Asia Pacific[cite: 25].
+> **EDA Takeaway:** Europe leads as the top revenue region ($167.3K+), followed closely by the Middle East and Asia Pacific
+
+
+
+## Regional Sales Rankings
+**Business Objective:** Evaluate total sales by geographic region and rank them in descending order
+
+| region | Total_sales | rn |
+| :--- | :--- | :--- |
+| Europe | 167363.89 | 1[cite: 21] |
+| Middle East | 117005.39 | 2[cite: 21] |
+| Asia Pacific | 103846.54 | 3[cite: 21] |
+| North America | 97455.75 | 4[cite: 21] |
+| Latin America | 40972.34 | 5[cite: 21] |
+
+> **EDA Takeaway:** Europe leads all regional markets with 167.3K+ in total sales
+
+---
+
+## Product Category Sales Rankings
+**Business Objective:** Rank product categories based on total revenue generated
+
+| category | Total_sales | RN |
+| :--- | :--- | :--- |
+| electronics | 130897.58 | 1[cite: 22] |
+| apparel | 99589.15 | 2[cite: 22] |
+| home | 77619.36 | 3[cite: 22] |
+| sports | 77169.38 | 4[cite: 22] |
+| beauty | 74767.83 | 5[cite: 22] |
+| industrial | 65913.11 | 6[cite: 22] |
+
+> **EDA Takeaway:** Electronics secured the #1 revenue rank, generating over 130.8K in total sales
+
+---
+
+## Campaign Spending Rankings
+**Business Objective:** Rank marketing campaigns by total expenditure to monitor budget distribution.
+
+| campaign_name | total_spending | rn |
+| :--- | :--- | :--- |
+| Black Friday | 28065.30 | 1 |
+| Summer Sale | 14607.66 | 2 |
+| Spring Launch 2026 | 12143.87 | 3 |
+| Back to School | 9209.84 | 4 |
+| Spring Launch | 7625.36 | 5 |
+| New Year Clearance | 7188.62 | 6 |
+
+> **EDA Takeaway:** Black Friday commanded the highest marketing spend at 28K+, significantly outspending other seasonal campaigns.
