@@ -56,7 +56,8 @@ And find the total number of customers by each group
 --Change over time
 
 --=============================
---[Measure] by [Date dimention]
+
+## [Measure] by [Date dimention]
 
 ## Query 3: Total Spending by Campaign (`campaign_name`)
 
@@ -75,7 +76,7 @@ And find the total number of customers by each group
 
 > **Key Insight:** Black Friday 2025 recorded the highest spending by a wide margin at 28,065.30, followed by the Spring Launch 2026 campaign.
 
----
+
 
 ## Query 4: Average Sales by Product Category (`category`)
 *(Note: Displaying a sample of 10 rows out of 88 total records)*
@@ -95,7 +96,7 @@ And find the total number of customers by each group
 | 2025 | March | industrial | 3867.6 |
 | 2025 | March | sports | 3518.2 |
 
-> **Key Insight:** The 'home' category led February 2025 with the highest average sales at 6,068.9, while electronics recorded the lowest.
+> **Key Insight:** Year and Monthly category wise avg_sales
 
 ---
 
@@ -117,12 +118,17 @@ And find the total number of customers by each group
 | 2025 | April | Europe | 29865.72 |
 | 2025 | April | Latin America | 3637.35 |
 
-> **Key Insight:** Europe peaked in April 2025 with the highest regional total sales of 29,865.72 among the sampled periods.
+> **Key Insight:**  Year and Monthly region wise total sales
 
 --=====================================
+
 --Cummulative analysis
+
 --====================================
---[Cummulative measure] by [Date dimention]
+
+
+## [Cummulative measure] by [Date dimention]
+
 
 ## Query 6: Cumulative Overall Sales Progression (`overall_sales`)
 
@@ -170,7 +176,17 @@ And find the total number of customers by each group
 | 2026 | 1 | 7188.62 | 9528.11 |
 | 2026 | 3 | 12143.87 | 9855.08 |
 
-> **Key Insight:** November 2025 spending spiked to 28,065.30, pushing the running average up by over 57% to 9,918.03.
+> **Key Insight:** November 2025 spending spiked to 28,065.30, pushing the running average upto 9,918.03.
+
+
+--===================================
+
+--Performance Analysis
+
+--====================================
+
+
+## Current[Measure]-Target[Measure]
 
 
 ## Query 6: Year-over-Year Product Sales Performance & Average Comparison
@@ -191,9 +207,16 @@ And find the total number of customers by each group
 | 2025 | Decor M026 | 7181.04 | 8078.67 | -897.63 | Below Avg | NULL | NULL | Not change |
 | 2026 | Decor M026 | 8976.30 | 8078.67 | 897.63 | Above avg | 7181.04 | 1795.26 | increment in sales |
 
-> **Key Insight:** Audio M002 achieved the strongest YoY growth (+9,730.20), whereas Audio M020 experienced the steepest decline (-16,004.34) in 2026.
+> **Key Insight:** YoY product sales performance & average sales comparison 
 
----
+---======================================
+
+--Part-to-whole analysis
+
+--======================================
+
+##  [Measure]/Total[Measure]*100 By [Dimention]
+
 
 ## Query 8: Product Category Sales Contribution
 
@@ -243,7 +266,15 @@ And find the total number of customers by each group
 > **Key Insight:** Paid Search and Social media combined absorbed nearly 70% of total marketing channel spending.
 
 
---
+--==============================
+
+Data Segmentation
+
+--========================
+
+## [Measure] by [Measure]
+
+
 ## Query 11: Campaign Budget vs. Total Spend Performance
 
 **Business Objective:** Compare campaign budgets against actual spending to evaluate allocation efficiency and budget variances.
@@ -296,6 +327,6 @@ And find the total number of customers by each group
 | Keystone Partners | 17770.86 | Mid Value Customers |
 | Quantum Distribution | 17033.03 | Mid Value Customers |
 
-> **Key Insight:** Summit Commerce led as the top account with over 32.5K in total sales, anchoring the High Value Customer segment.
+> **Key Insight:** Customer Segmentation based on total sales
 
 
