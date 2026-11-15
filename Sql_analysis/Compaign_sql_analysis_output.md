@@ -1,5 +1,7 @@
 --===================
-REPORTING
+
+--REPORTING
+
 --===============
 ## Query 1: Customer Segmentation Analysis
 
@@ -7,9 +9,9 @@ REPORTING
 
 | customer_segmentation | total_customers |
 | :--- | :--- |
-| New customers | 32[cite: 15] |
-| Regular customer | 12[cite: 15] |
-| VIP customer | 3[cite: 15] |
+| New customers | 32 |
+| Regular customer | 12|
+| VIP customer | 3|
 
 > **Key Insight:** New customers make up the largest portion of the customer base with 32 accounts, while VIP customers represent the most exclusive tier with 3 accounts.
 
@@ -19,18 +21,20 @@ REPORTING
 
 | campaign_name | total_spending | CTR | avg_ctr | campaign_segment |
 | :--- | :--- | :--- | :--- | :--- |
-| Black Friday | 28065.30[cite: 16] | 4.16[cite: 16] | 3.36[cite: 16] | High Impact[cite: 16] |
-| Summer Sale | 14607.66[cite: 16] | 2.88[cite: 16] | 3.36[cite: 16] | Moderate[cite: 16] |
-| Spring Launch 2026 | 12143.87[cite: 16] | 3.08[cite: 16] | 3.36[cite: 16] | Moderate[cite: 16] |
-| Back to School | 9209.84[cite: 16] | 4.19[cite: 16] | 3.36[cite: 16] | Low imapct[cite: 16] |
-| Spring Launch | 7625.36[cite: 16] | 2.94[cite: 16] | 3.36[cite: 16] | Low imapct[cite: 16] |
-| New Year Clearance | 7188.62[cite: 16] | 2.92[cite: 16] | 3.36[cite: 16] | Low imapct[cite: 16] |
+| Black Friday | 28065.30 | 4.16 | 3.36| High Impact|
+| Summer Sale | 14607.66| 2.88 | 3.36| Moderate |
+| Spring Launch 2026 | 12143.87 | 3.08 | 3.36| Moderate|
+| Back to School | 9209.84 | 4.19| 3.36| Low imapct|
+| Spring Launch | 7625.36 | 2.94 | 3.36| Low imapct|
+| New Year Clearance | 7188.62 | 2.92| 3.36| Low imapct|
 
 > **Key Insight:** Black Friday stands out as the sole High Impact campaign due to its high spend and superior CTR above the 3.36 average.
 
 
 ---==============================
+
 --Change over time
+
 --=============================
 --[Measure] by [Date dimention]
 
