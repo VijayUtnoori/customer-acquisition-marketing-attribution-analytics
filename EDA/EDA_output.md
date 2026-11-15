@@ -5,18 +5,18 @@
 
 | Measure_Name | Measure_value |
 | :--- | :--- |
-| Unique campaign count | 6[cite: 23] |
-| Unique channels count used in camapaign | 4[cite: 23] |
-| Unique Customers Count | 60[cite: 23] |
-| Unique Product Count | 60[cite: 23] |
-| Unique Category Count | 6[cite: 23] |
-| Total Spending | 78840.65[cite: 23] |
-| avg delivery days | 8[cite: 23] |
-| Total order count | 80[cite: 23] |
-| Total Sales Generated | 526643.91[cite: 23] |
-| Active customers | 47[cite: 23] |
+| Unique campaign count | 6 |
+| Unique channels count used in camapaign | 4|
+| Unique Customers Count | 60|
+| Unique Product Count | 60 |
+| Unique Category Count | 6 |
+| Total Spending | 78840.65 |
+| avg delivery days | 8[cite: |
+| Total order count | 80|
+| Total Sales Generated | 526643.91 |
+| Active customers | 47 |
 
-> **EDA Takeaway:** The dataset captures robust commercial activity with over ₹526K in total revenue generated against ~₹78.8K in marketing expenditures across 60 unique customers[cite: 23].
+> **EDA Takeaway:** The dataset captures robust commercial activity with over ₹526K in total revenue generated against ~₹78.8K in marketing expenditures across 60 unique customer
 
 ---
 
@@ -25,12 +25,12 @@
 
 | category | total_sale |
 | :--- | :--- |
-| apparel | 99589.15[cite: 25] |
-| beauty | 74767.83[cite: 25] |
-| electronics | 130897.58[cite: 25] |
-| home | 77619.36[cite: 25] |
-| industrial | 65913.11[cite: 25] |
-| sports | 77169.38[cite: 25] |
+| apparel | 99589.15 |
+| beauty | 74767.83 |
+| electronics | 130897.58 |
+| home | 77619.36 |
+| industrial | 65913.11|
+| sports | 77169.38|
 
 > **EDA Takeaway:** Electronics commands the highest baseline revenue share exceeding ₹130.8K[cite: 25].
 
@@ -41,10 +41,10 @@
 
 | region | total_sales |
 | :--- | :--- |
-| Europe | 167363.89[cite: 25] |
-| Middle East | 117005.39[cite: 25] |
-| Asia Pacific | 103846.54[cite: 25] |
-| North America | 97455.75[cite: 25] |
-| Latin America | 40972.34[cite: 25] |
+| Europe | 167363.89|
+| Middle East | 117005.39 |
+| Asia Pacific | 103846.54|
+| North America | 97455.75 |
+| Latin America | 40972.34[ci|
 
 > **EDA Takeaway:** Europe leads as the top revenue region ($167.3K+), followed closely by the Middle East and Asia Pacific[cite: 25].
