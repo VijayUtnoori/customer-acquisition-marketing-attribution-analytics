@@ -56,11 +56,11 @@
 
 | region | Total_sales | rn |
 | :--- | :--- | :--- |
-| Europe | 167363.89 | 1[cite: 21] |
-| Middle East | 117005.39 | 2[cite: 21] |
-| Asia Pacific | 103846.54 | 3[cite: 21] |
-| North America | 97455.75 | 4[cite: 21] |
-| Latin America | 40972.34 | 5[cite: 21] |
+| Europe | 167363.89 | 1|
+| Middle East | 117005.39 | 2|
+| Asia Pacific | 103846.54 | 3 |
+| North America | 97455.75 | 4 |
+| Latin America | 40972.34 | 5 |
 
 > **EDA Takeaway:** Europe leads all regional markets with 167.3K+ in total sales
 
@@ -71,12 +71,12 @@
 
 | category | Total_sales | RN |
 | :--- | :--- | :--- |
-| electronics | 130897.58 | 1[cite: 22] |
-| apparel | 99589.15 | 2[cite: 22] |
-| home | 77619.36 | 3[cite: 22] |
-| sports | 77169.38 | 4[cite: 22] |
-| beauty | 74767.83 | 5[cite: 22] |
-| industrial | 65913.11 | 6[cite: 22] |
+| electronics | 130897.58 | 1|
+| apparel | 99589.15 | 2|
+| home | 77619.36 | 3 |
+| sports | 77169.38 | 4 |
+| beauty | 74767.83 | 5 |
+| industrial | 65913.11 | 6|
 
 > **EDA Takeaway:** Electronics secured the #1 revenue rank, generating over 130.8K in total sales
 
