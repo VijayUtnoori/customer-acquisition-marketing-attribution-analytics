@@ -192,6 +192,8 @@ And find the total number of customers by each group
 ## Query 6: Year-over-Year Product Sales Performance & Average Comparison
 *(Note: Displaying a sample of 10 rows out of 102 total records)*
 
+--Analyze the yearly performance of product by comparing their sales to both the avg sales performance of the product and the previous years sales
+
 **Business Objective:** Evaluate individual product sales against their historical averages and prior-year benchmarks to classify performance trends.
 
 | order_year | product_name | current_sales | avg_sales | avg_difference | avg_difference_status | previous_year_sales | diff_previous_year_sales | PY_change_status |
