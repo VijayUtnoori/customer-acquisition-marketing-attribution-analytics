@@ -1,1 +1,1 @@
-"Optimizing Marketing ROI & Commercial Growth: Evaluating Campaign Spend Efficiency, Promotional Attribution, and Customer Profitability Across B2B Segments"
+How can a retail and B2B wholesale business improve revenue target achievement and gross profitability by analysing promotional spending, discounting strategies, inventory levels, and order fulfilment efficiency across product categories, sales channels, and customer regions?
